@@ -71,3 +71,5 @@ Uso de Git e versionamento com GitHub
 GuILS00
 Projeto para a disciplina de automação com Python.
 Instituição: UNIFECAF
+
+link vídeo: https://youtube.com/shorts/iFZwRFpcU8A?si=HgGV6IESntklL4xG
